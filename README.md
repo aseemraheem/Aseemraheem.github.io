@@ -24,7 +24,7 @@ git push -u origin main
 ```
 
 Then: repo **Settings -> Pages -> Build and deployment -> Deploy from a branch -> main, / (root) -> Save**.
-After a minute or two the site is live at https://aseemraheem.github.io/. `index.html` must sit in the repo root. GitHub Pages sites are public.
+After a minute or two the site is live at https://Aseemraheem.github.io/. `index.html` must sit in the repo root. GitHub Pages sites are public.
 
 Update later: edit files, then `git add .`, `git commit -m "Update"`, `git push`.
 
